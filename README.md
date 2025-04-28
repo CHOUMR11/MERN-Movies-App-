@@ -6,7 +6,7 @@ Welcome to the **MERN Movies App**! This is a full-stack web application that al
 
 ## 📸 Demo
 
-![App Demo](assets/screenshot.png)
+![App Demo](assets/thumbs.png)
 
 > Check out the live demo of the app [here](http://your-live-demo-link).
 
